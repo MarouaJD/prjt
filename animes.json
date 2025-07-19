@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Inuyasha",
+    "genre": "Action, Fantaisie",
+    "episodes": 167,
+    "rating": 4,
+    "image": "img/img1.jpg"
+  },
+  {
+    "title": "Naruto",
+    "genre": "Action, Aventure",
+    "episodes": 220,
+    "rating": 5,
+    "image": "img/IMG7.jpg"
+  },
+  {
+    "title": "Demon Slayer",
+    "genre": "Action, Drame",
+    "episodes": 26,
+    "rating": 4,
+    "image": "img/img9.jpg"
+  },
+  {
+    "title": "My Hero Academia",
+    "genre": "Action, Comédie, Super-héros",
+    "episodes": 113,
+    "rating": 4,
+    "image": "img/IMG11.jpg"
+  },
+  {
+    "title": "Death Note",
+    "genre": "Mystère, Psychologique, Thriller",
+    "episodes": 37,
+    "rating": 5,
+    "image": "img/IMG5.jpg"
+  }
+]
